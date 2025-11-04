@@ -7,10 +7,7 @@
 # =====================================================
 
 # Cache et logs
-backend/var/
-backend/.env.local
-backend/.env.local.php
-backend/.env.*.local
+backend/var/ 
 
 # Dependencies
 backend/vendor/
@@ -56,12 +53,7 @@ frontend/dist
 frontend/.vercel
 frontend/.netlify
 
-# Environment variables
-frontend/.env
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
+# Environment variables 
 
 # Debug
 frontend/npm-debug.log*
